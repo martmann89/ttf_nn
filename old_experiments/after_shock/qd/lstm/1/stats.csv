@@ -1,0 +1,2 @@
+;batch_size;learning_rate;l2_lambda;alpha;loss_func;time_steps_in;time_steps_out;n_vars;nof_ens;units;n_layers;eta_qd;lamb_qd;epochs;coverage;avg_length;coverage_conf;avg_length_conf;mis;cwc;coverage_sum;coverage_conf_sum;avg_length_sum;avg_length_conf_sum;mis_sum;cwc_sum
+0;100;0.002;0.0001;0.05;qd;1;1;1;1;5;2;100;0.01;143;1.0;124.03309776465876;0.7213114754098361;142.23881290086337;124.03309776465876;0.37146921954972884;0.8721311475409836;0.6983606557377049;153.0604899973584;145.2227882675814;317.69100945796595;0.11852645752511237
